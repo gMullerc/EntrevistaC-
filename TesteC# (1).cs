@@ -1,4 +1,6 @@
-﻿teste();
+for(int c = 0; c>1;)﻿
+{
+teste();
 void teste()
 {
     Console.WriteLine("Primeiramente digite a quantidade de amostras que serão usadas");
